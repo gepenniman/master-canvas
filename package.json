@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "@vitejs/plugin-basic-ssl": "^2.1.0",
-    "vite": "^6.2.0"
+    "vite": "^6.4.5"
   },
   "devDependencies": {
     "electron": "^42.2.0",
